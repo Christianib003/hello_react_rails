@@ -1,11 +1,12 @@
+import React from 'react'
 import Greeting from './Greeting';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <Greeting />
+    <div>
+     <Greeting />
     </div>
-  );
+  )
 }
 
 export default App;

@@ -1,2 +1,2 @@
 web: rails server
-js: npm build --watch
+js: npm run build --watch
